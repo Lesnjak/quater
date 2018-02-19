@@ -1,0 +1,142 @@
+$green: #6bad02;
+body{
+  font-family: Robot, sans-serif;
+}
+button{
+  outline: none;
+}
+.center-block{
+  width: 100%;
+  text-align: center;
+}
+section{
+  padding: 60px 0;
+}
+.title-wight{
+  font-size: 36px;
+  color: white;
+  font-family:Robot,sans-serif;
+  font-weight:bold;
+  line-height: 40px;
+  text-transform: uppercase;
+  margin: 10px;
+}
+@media (max-width: 993px) {
+  .title-wight{
+    font-size: 30px;
+
+  }
+}
+.title-black{
+  color: #222;
+  font-size: 36px;
+  font-family:Robot,sans-serif;
+  font-weight:bold;
+  margin: 0 auto;
+  text-transform: uppercase;
+  width:auto;
+}
+@media (max-width: 768px) {
+  .title-black{
+
+    font-size: 30px;
+
+  }
+  
+}
+.button-wight{
+  width: 262px;
+  height: 50px;
+  background-color: white;
+  border-radius: 25px;
+  color: $green;
+  font-size: 18px;
+  text-transform: uppercase;
+  border: 2px solid white;
+  transition: 0.3s;
+  margin-left: 15px;
+  &:hover{
+    background-color: transparent;
+    color: white;
+  }
+}
+.button-green{
+  width: 262px;
+  height: 50px;
+  background-color:$green;
+  border-radius: 25px;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  transition: 0.3s;
+  border: 2px solid transparent;
+  &:hover{
+    background-color: transparent;
+    border: 2px solid $green;
+    color: $green;
+  }
+}
+.button-video{
+  position: relative;
+  width: 262px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 25px;
+  color:white;
+  font-size: 18px;
+  text-transform: uppercase;
+  border: 2px solid white;
+  transition: 0.3s;
+  padding-left: 20px;
+  margin-right: 15px;
+  &:hover{
+    background-color: white;
+    color: $green;
+  }
+  &:hover:before{
+    background-image: url(../img/play-green.png)
+  }
+  &:before{
+    position: absolute;
+    content: '';
+    background-image: url(../img/play.png);
+    width: 20px;
+    height: 20px;
+    left: 20px;
+    top: 0;
+    bottom: 0;
+    margin:auto;
+    transition: 0.3s;
+
+  }
+}
+@media (max-width: 600px) {
+  .button-wight{
+    margin-top: 20px;
+    margin-left: 0;
+  }
+  .button-video{
+    margin-right: 0;
+  }
+  
+}
+.content-p{
+  font-size:18px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 20px;
+  p{
+    margin: 0;
+  }
+}
+.number{
+  color: $green;
+  font-size: 48px;
+}
+.default-p{
+  color: #222;
+  font-size: 16px;
+  span{
+    color: $green;
+  }
+}
