@@ -1,0 +1,862 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,900&subset=latin,cyrillic-ext);
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  min-width: 320px;
+}
+
+.calltrack-h1{
+  font: 700 100px/1 'Roboto', sans-serif;
+  color: #7eb712;
+  transition: all 0.3s ease;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+
+.calltrack-h2{
+  font: 700 30px/1.15 'Roboto', sans-serif;
+  color: #fff;
+  padding-bottom: 36px;
+  position: relative;
+  margin-left: 50%;
+  transition: all 0.3s ease;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.calltrack-h2:after{
+  content: "";
+  display: block;
+  width: 65px;
+  height: 8px;
+  background-color: #7eb712;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.calltrack {
+  background-color: #101214;
+  overflow: hidden;
+}
+
+.calltrack-img-block {
+  text-align: center;
+  padding: 45px 20px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.calltrack-img-block IMG{
+  max-width: 100%;
+}
+
+.calltrack-text-block{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.calltrack-text-block1{
+  height: 1960px;
+  padding-top: 160px;
+  position: relative;
+  background: url(img/bg1.jpg) no-repeat 0 30%,
+              url(img/bg2.jpg) no-repeat 100% 90%;
+
+  // background-size: 37% auto, 28% auto;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__inner{
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+}
+
+.calltrack-text-block1__inner .calltrack-h2{
+  margin-left: auto;
+}
+
+.calltrack-logo{
+  position: absolute;
+  left: 30px;
+  top: 0;
+}
+
+.calltrack-text-block1__text1{
+  font: 900 30px/1 'Roboto', sans-serif;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 15px;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text2{
+  font: 700 50px/1.2 'Roboto', sans-serif;
+  color: #b1b5ba;
+  position: absolute;
+  left: 50%;
+  top: 160px;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text3{
+  position: absolute;
+  right: 0;
+  top: 355px;
+  width: 190px;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text4{
+  position: absolute;
+  left: 20%;
+  top: 410px;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text5{
+  position: absolute;
+  left: 21%;
+  top: 570px;
+  width: 420px;
+  color: #868686;
+  font: 16px/1.8 'Roboto', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text6{
+  position: absolute;
+  left: 90px;
+  top: 910px;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text7{
+  position: absolute;
+  left: 50%;
+  top: 930px;
+  font: 300 24px/1.65 'Roboto', sans-serif;
+  color: #9b9fa3;
+  max-width: 430px;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text8{
+  position: absolute;
+  left: 20%;
+  top: 1400px;
+  font: 700 50px/1 'Roboto', sans-serif;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text9{
+  position: absolute;
+  left: 50%;
+  max-width: 490px;
+  top: 1400px;
+  font: 300 20px/1.4 'Roboto', sans-serif;
+  color: #9b9fa3;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block1__text9 P{
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+
+.calltrack-text-block1__text9 P B{
+  font-weight: 500;
+  color: #fff;
+}
+
+
+.calltrack-img-block__text{
+  font: 16px/1.4 'Roboto', sans-serif;
+  color: #9b9fa3;
+  text-align: center;
+  padding: 5% 0;
+  transition: all 0.3s ease;
+}
+
+.calltrack-img-block--1{
+  padding-bottom: 6%;
+}
+
+.calltrack-img-block1__img{
+  background: url(img/bg-img1.jpg) no-repeat 50% 50%;
+  text-align: center;
+  padding: 44px 176px 96px;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block2{
+  height: 300px;
+  position: relative;
+}
+
+.calltrack-text-block2__text1{
+  position: absolute;
+  top: 0;
+  left: 50%;
+  font: 16px/1.4 'Roboto', sans-serif;
+  color: #9b9fa3;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block2__text2{
+  position: absolute;
+  top: 140px;
+  left: 33%;
+  font: 700 18px/1.2 'Roboto', sans-serif;
+  color: #fff;
+  position: absolute;
+  transition: all 0.3s ease;
+}
+
+.calltrack-text-block2__text2:before{
+  content: "";
+  display: inline-block;
+  width: 23px;
+  height: 1px;
+  background: #fff;
+  position: absolute;
+  left: -30px;
+  top: 10px;
+}
+
+.calltrack-text-img22{
+  position: absolute;
+  left: 10%;
+  top: 50px;
+  max-width: 100%;
+  transition: all 0.3s ease;
+}
+
+.calltrack-img-block--3 IMG{
+    text-align: left;
+}
+
+.calltrack-img2{
+  margin-left: 17.5%;
+  max-width: 82% !important;
+}
+.calltrack-img2_1{
+  position: absolute;
+  top: 1.5%;
+  right: 54%;
+  max-width: 45% !important;
+}
+
+.calltrack-img2_2{
+  position: absolute;
+  bottom: 18%;
+  right: 50%;
+  max-width: 52% !important;
+}
+
+.calltrack-greed:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.calltrack-greed{
+  max-width: 1580px;
+  margin: 0 auto;
+}
+
+.calltrack-greed IMG{
+  display: inline-block;
+  margin-bottom: 20px;
+  box-shadow: 0 0 24px rgba(0,0,0,0.42);
+  z-index: 1;
+  position: relative;
+}
+
+.calltrack-greed IMG.no-sh{
+  box-shadow: none;
+}
+
+.calltrack-greed__left{
+  float: left;
+  width: 50%;
+  text-align: center;
+  padding-right: 10px;
+}
+
+.calltrack-greed__right{
+  float: right;
+  width: 50%;
+  text-align: center;
+  padding-left: 10px;
+  padding-top: 136px;
+}
+
+.calltrack-img-block--blue{
+  background: #2a83c1;
+}
+
+.calltrack--green-circle{
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 0;
+}
+
+.calltrack--green-circle:before{
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 5%;
+  border-radius: 50%;
+  width: 200%;
+  height: 71%;
+  transform: translate(-50%, 0px);
+  background-color: #73a712;
+}
+
+.calltrack-img3_4{
+  margin-top: 5%;
+}
+
+.calltrack-img3_7{
+  margin-top: 11%;
+}
+
+
+
+.calltrack-img-block--5 IMG{
+  z-index: 2;
+  position: relative;
+}
+
+
+
+.calltrack-img-block--6{
+  padding-bottom: 0;
+  padding-top: 0;
+  margin-top: -12%;
+  background: url(img/bg3.jpg) no-repeat 60% 100%;
+  background-size: auto 92%;
+}
+
+.calltrack-img-cut{
+  margin-right: 38%;
+  z-index: 3;
+  position: relative;
+  max-width: 50%!important;
+  display: block;
+}
+
+.calltrack-link{
+  font: 700 45px/1 'Roboto', sans-serif;
+  color: #fff;
+  border-bottom: 1px solid #72a612;
+  transition: border-color 0.15s ease;
+  text-transform: uppercase;
+  text-decoration: none;
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  transition: all 0.3s ease;
+}
+
+.calltrack-link:hover{
+  border-color: transparent;
+}
+
+.calltrack-sps{
+  font: 300 14px/1.3 'Roboto', sans-serif;
+  color: #969696;
+  position: absolute;
+  left: 57%;
+  bottom: 3%;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+
+.calltrack-sps A{
+  color: #72a612;
+  text-decoration: none;
+  border-bottom: 1px solid #72a612;
+  transition: all 0.3s ease;
+}
+
+.calltrack-sps A:hover{
+  color: #fff;
+  border-color: transparent;
+}
+
+@media screen and (max-width: 1560px) {
+  .calltrack-img-block1__img{
+    padding: 44px 0 0 0;
+    background: none;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .calltrack-img-cut{
+    margin-right: 50%;
+  }
+
+  .calltrack-img2_2{
+    bottom: 20%;
+  }
+
+  .calltrack-text-block2{
+    height: 350px;
+  }
+
+  .calltrack-text-block2__text2{
+    top: 230px;
+    left: 45%;
+  }
+
+  .calltrack-text-img22{
+    top: 120px;
+  }
+
+  .calltrack-text-block1{
+    background-position: 0 25%, 100% 100%;
+    background-size: 52% auto, 40% auto;
+    padding-top: 100px;
+    height: 1600px;
+  }
+
+  .calltrack-text-block1__text2{
+    top: 130px;
+  }
+
+  .calltrack-text-block1__text3{
+    top: 300px;
+  }
+
+  .calltrack-text-block1__text4{
+    top: 510px;
+  }
+
+  .calltrack-text-block1__text5{
+    top: 670px;
+  }
+
+  .calltrack-text-block1__text6{
+    top: 850px
+  }
+
+  .calltrack-text-block1__text7{
+    top: 870px
+  }
+
+  .calltrack-text-block1__text8{
+    top: 1200px
+  }
+
+  .calltrack-text-block1__text9{
+    top: 1200px
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .calltrack-link{
+    font-size: 35px;
+  }
+
+  .calltrack-img-block--6{
+    margin-top: -15%;
+  }
+
+  .calltrack-text-block1__text2{
+    left: 35%;
+  }
+
+  .calltrack-text-block1__text4{
+    left: 15%;
+  }
+
+  .calltrack-text-block1__text5{
+    left: 16%;
+  }
+
+  .calltrack-text-block1{
+    padding-top: 100px;
+    background-position: 0 25%, 100% 100%;
+    background-size: 500px auto, 400px auto;
+  }
+
+  .calltrack-text-block1__text1{
+    top: 12px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .calltrack-h2{
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .calltrack-h2:after{
+    left: 50%;
+    margin-left: -32px;
+  }
+
+  .calltrack-greed__left{
+    float: none;
+    width: 100%;
+    padding-right: 0;
+  }
+
+  .calltrack-greed__right{
+    float: none;
+    width: 100%;
+    padding-left: 0;
+    padding-top: 50px;
+  }
+
+  .calltrack--green-circle:before{
+    width: 700%;
+    top: 30px;
+    height: 99%;
+  }
+
+  .calltrack-img3_4{
+    box-shadow: 0 0 24px rgba(0,0,0,0.42)!important;
+  }
+
+  .calltrack-img-block--3{
+    padding-bottom: 0;
+    margin-bottom: -10%;
+  }
+
+  .calltrack-img2{
+    margin-left: 0;
+    max-width: 100% !important;
+  }
+
+  .calltrack-img2_2{
+    position: static;
+    display: inline-block;
+    max-width: 100%!important;
+  }
+
+  .calltrack-img2_1{
+    position: static;
+    display: inline-block;
+    max-width: 100%!important;
+    margin-top: 20px;
+  }
+
+  .calltrack-text-block2{
+    height: 370px;
+  }
+
+  .calltrack-text-block2__text1{
+    left: 0;
+    position: static;
+    text-align: center;
+  }
+
+  .calltrack-text-block2__text2{
+    top: 245px;
+    left: auto;
+    right: 15%;
+  }
+
+  .calltrack-text-img22{
+    top: 120px;
+  }
+
+  .calltrack-img-block__text{
+    padding: 10% 0;
+  }
+
+  .calltrack-img-block--1{
+    padding-bottom: 7%;
+  }
+
+  .calltrack-text-block1{
+    height: 1500px;
+    padding-top: 60px;
+    background-position: 0 25%, 100% 100%;
+    background-size: 80% auto, 50% auto;
+  }
+
+  .calltrack-text-block1__text1{
+    left: 80%;
+  }
+
+  .calltrack-text-block1__text2{
+    left: 0px;
+    right: 0px;
+    text-align: center;
+  }
+
+  .calltrack-text-block1__text3{
+    left: 50%;
+    right: auto;
+    margin-left: -95px;
+  }
+
+  .calltrack-text-block1__text4{
+    left: 0px;
+    right: 0px;
+    text-align: center;
+  }
+
+  .calltrack-text-block1__text5{
+    left: 50%;
+    right: auto;
+    margin-left: -210px;
+    text-align: center;
+  }
+
+  .calltrack-text-block1__text6{
+    top: 800px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+  }
+
+  .calltrack-text-block1__text7{
+    top: 930px;
+    left: 10%;
+    right: 10%;
+    max-width: none;
+    text-align: center;
+  }
+
+  .calltrack-text-block1__text8{
+    top: 1120px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+  }
+
+  .calltrack-text-block1__text9{
+    left: 10%;
+    right: 10%;
+    max-width: none;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 679px) {
+  .calltrack-link{
+    font-size: 25px;
+  }
+
+  .calltrack-sps{
+    bottom: 7%;
+    right: 5%;
+    left: auto;
+  }
+
+  .calltrack-link{
+    left: auto;
+    right: 5%
+  }
+
+  .calltrack-img3_4{
+    margin-top: 0;
+  }
+
+  .calltrack-img3_7{
+    margin-top: 0;
+  }
+
+  .calltrack-greed__right{
+    padding-top: 0;
+  }
+
+  .calltrack-text-block2__text2{
+    right: 3%;
+  }
+
+  .calltrack-h1{
+    font-size: 76px;
+  }
+
+  .calltrack-text-block1__text2{
+    font-size: 44px;
+  }
+
+  .calltrack-text-block1__text7,
+  .calltrack-text-block1__text9{
+    left: 5%;
+    right: 5%;
+  }
+
+  .calltrack-text-block1__text7{
+    font-size: 22px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+
+  .calltrack-img-block--5{
+    padding-bottom: 0;
+  }
+
+  .calltrack-img-block--6{
+    margin-top: 0;
+    padding-top: 40px;
+    background-size: auto 115%;
+  }
+  .calltrack-link{
+    position: static;
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+
+  .calltrack-sps{
+    position: static;
+    display: inline-block;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+
+  .calltrack-img-cut{
+    margin: 0 auto;
+    max-width: 70%!important;
+  }
+
+  .calltrack-text-block2{
+    text-align: center;
+    height: auto;
+    padding-bottom: 20px;
+  }
+
+  .calltrack-text-block2__text1 BR{
+    display: none;
+  }
+
+  .calltrack-text-block2__text2{
+    position: relative;
+    display: inline-block;
+    right: auto;
+    left: 26%;
+    font-size: 16px;
+    top: auto;
+    margin-top: 10px;
+    text-align: left;
+  }
+
+  .calltrack-text-img22{
+    position: static;
+    margin-top: 40px;
+  }
+
+  .calltrack-h2{
+    margin-bottom: 0;
+  }
+
+  .calltrack--green-circle:before{
+    top: 40px;
+    height: 98.5%;
+  }
+
+  .calltrack-img-block,
+  .calltrack-text-block{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .calltrack-text-block1{
+    height: auto;
+    padding-top: 80px;
+    background-size: 80% auto, 80% auto;
+  }
+
+  .calltrack-text-block1__inner{
+    padding-top: 100px;
+  }
+
+  .calltrack-logo{
+    left: 0;
+  }
+
+  .calltrack-text-block1__text1{
+    left: auto;
+    right: 0;
+    top: 12px;
+  }
+
+  .calltrack-text-block1__text2{
+    position: static;
+    font-size: 34px;
+  }
+
+  .calltrack-text-block1__text3{
+    position: relative;
+    right: auto;
+    top: auto;
+    margin-top: 50px;
+  }
+
+  .calltrack-text-block1__text4{
+    position: static;
+    margin-top: 50px;
+  }
+
+  .calltrack-h1{
+    font-size: 52px;
+  }
+
+  .calltrack-text-block1__text5{
+    position: static;
+    margin: 0 0 30px;
+    width: auto;
+    padding: 0 5%;
+  }
+
+  .calltrack-text-block1__text6{
+    position: static;
+  }
+
+  .calltrack-text-block1__text7{
+    position: static;
+    font: 400 16px/1.6 'Roboto', sans-serif;
+    margin: 20px 0 30px;
+    padding: 0 5%;
+  }
+
+  .calltrack-text-block1__text8{
+    position: static;
+    margin-bottom: 30px;
+  }
+
+  .calltrack-text-block1__text9{
+    position: static;
+    padding: 0 5%;
+  }
+
+  .calltrack-text-block1__text9 P{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    margin-bottom: 25px;
+  }
+
+  .calltrack-img-block1__img{
+    padding-top: 0;
+  }
+
+
+}
+
