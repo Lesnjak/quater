@@ -2,199 +2,222 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f42a96-a268-4de3-a2e4-607bf7e24cdb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-ExtraBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-Heavy.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-HeavyItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-RegularItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-SemiBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-UltraLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Gilroy-UltraLightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Roboto.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/about-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/adven1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/adven2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/adven3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/adven4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/begin1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/begin2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/begin3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/begin4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/chair-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/png_fav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/fon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/hands.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/play-green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slide1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slide2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slide3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/video/shutterstock.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/video/shutterstock.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cl.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/contacts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/index.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/jquery.background-video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/common.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/README_SPANISH.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.extensions.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/jquery.fullPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/jquery.fullPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/jquery.fullPage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/vendors/jquery.easings.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/vendors/scrolloverflow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fullpage.js/vendors/scrolloverflow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jquery.backgroundvideo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/paralax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/CONTRIBUTING.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick-master/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_about.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_clients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_head.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_libs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_mixins/_font-face.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_order.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_portfolio.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_reports.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_servise.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_vars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/upload/Ð�Ð¾Ð²Ñ‹Ð¹ Ñ‚ÐµÐºÑ�Ñ‚Ð¾Ð²Ñ‹Ð¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ht.access" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-ExtraBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-Heavy.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-HeavyItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-RegularItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-SemiBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-UltraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Gilroy-UltraLightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/Roboto.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/about-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/adven1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/adven2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/adven3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/adven4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/begin1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/begin2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/begin3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/begin4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/chair-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/favicon/cq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/hands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/play-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/slide1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/slide2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/slide3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/temp/adven1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jQuery.scrollSpeed-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jQuery.scrollSpeed-master/jQuery.scrollSpeed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/contacts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/css/index.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/css/jquery.background-video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/css/main.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_about.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_clients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_head.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_libs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_mixins/_font-face.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_order.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_portfolio.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_reports.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_servise.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/_vars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/fonts/sass/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/ht.access" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/img/Новый текстовый документ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/js/common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/js/scripts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/TweenMax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/bootstrap-grid/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/README_SPANISH.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/dist/jquery.fullpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/dist/jquery.fullpage.extensions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/dist/jquery.fullpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/dist/jquery.fullpage.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/dist/jquery.fullpage.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/dist/jquery.fullpage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/dist/jquery.fullpage.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/jquery.fullPage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/jquery.fullPage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/jquery.fullPage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/pure javascript (Alpha)/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/pure javascript (Alpha)/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/vendors/jquery.easings.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/vendors/scrolloverflow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/fullpage.js/vendors/scrolloverflow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/jQuery.scrollSpeed-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/jQuery.scrollSpeed-master/jQuery.scrollSpeed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/jquery.backgroundvideo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/js/common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/js/scripts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/paralax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/CONTRIBUTING.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/fonts/slick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick-theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/libs/slick-master/slick/slick.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/php.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_about.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_clients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_head.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_libs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_mixins/_font-face.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_order.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_portfolio.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_reports.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_servise.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/_vars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/sass/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cl/upload/Ð�Ð¾Ð²Ñ‹Ð¹ Ñ‚ÐµÐºÑ�Ñ‚Ð¾Ð²Ñ‹Ð¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/video/shutterstock.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/video/shutterstock.webm" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.min.css" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/common.js" afterPath="$PROJECT_DIR$/app/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/common.min.js" afterPath="$PROJECT_DIR$/app/js/common.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/scripts.min.js" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_head.scss" afterPath="$PROJECT_DIR$/app/sass/_head.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_order.scss" afterPath="$PROJECT_DIR$/app/sass/_order.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -202,6 +225,15 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileColors">
@@ -213,8 +245,37 @@
   <component name="FileEditorManager">
     <leaf />
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>download-block</find>
+      <find>slick-next</find>
+      <find>slider-first</find>
+      <find>center-block</find>
+      <find>list</find>
+      <find>choise-block</find>
+      <find>falsee</find>
+      <find>.form-section</find>
+      <find>.slider-block .slider-first</find>
+      <find>none</find>
+      <find>main</find>
+      <find>max-width</find>
+      <find>177</find>
+      <find>form-section</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/css/main.min.css" />
+        <option value="$PROJECT_DIR$/app/sass/_head.scss" />
+        <option value="$PROJECT_DIR$/app/sass/_order.scss" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -227,10 +288,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="68" />
+    <option name="x" value="-4" />
+    <option name="y" value="64" />
     <option name="width" value="1281" />
-    <option name="height" value="855" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -270,7 +331,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -367,26 +428,31 @@
       <workItem from="1519039038460" duration="3109000" />
       <workItem from="1519042728533" duration="1603000" />
       <workItem from="1519044383019" duration="217000" />
-      <workItem from="1519044665705" duration="381000" />
+      <workItem from="1519044665705" duration="10093000" />
+      <workItem from="1519114627999" duration="18354000" />
+      <workItem from="1519198644808" duration="6493000" />
+      <workItem from="1519286455542" duration="5066000" />
+      <workItem from="1519386334520" duration="5951000" />
+      <workItem from="1519652943295" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6071000" />
+    <option name="totallyTimeSpent" value="51675000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="68" width="1281" height="855" extended-state="0" />
+    <frame x="-4" y="64" width="1281" height="886" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25552824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15642916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3281471" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22493225" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -407,6 +473,104 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10038">
+          <caret line="478" column="30" lean-forward="false" selection-start-line="478" selection-start-column="30" selection-end-line="478" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_head.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13671">
+          <caret line="651" column="3" lean-forward="false" selection-start-line="651" selection-start-column="3" selection-end-line="651" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3402">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_order.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6825">
+          <caret line="325" column="14" lean-forward="false" selection-start-line="325" selection-start-column="14" selection-end-line="325" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="805" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="55537" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10101">
+          <caret line="481" column="49" lean-forward="false" selection-start-line="481" selection-start-column="49" selection-end-line="481" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="153" column="45" lean-forward="false" selection-start-line="153" selection-start-column="45" selection-end-line="153" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2961">
+          <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_order.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8358">
+          <caret line="398" column="3" lean-forward="true" selection-start-line="398" selection-start-column="3" selection-end-line="398" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_head.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26103">
+          <caret line="1243" column="40" lean-forward="true" selection-start-line="1243" selection-start-column="40" selection-end-line="1243" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/libs/jQuery.scrollSpeed-master/jQuery.scrollSpeed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8127">
+          <caret line="387" column="29" lean-forward="false" selection-start-line="387" selection-start-column="29" selection-end-line="387" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-358">
@@ -425,7 +589,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/libs/jQuery.scrollSpeed-master/jQuery.scrollSpeed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="0" column="1706" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="55902" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_order.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="385" column="2" lean-forward="false" selection-start-line="385" selection-start-column="2" selection-end-line="385" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_head.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="612" column="13" lean-forward="false" selection-start-line="612" selection-start-column="13" selection-end-line="612" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="478" column="30" lean-forward="false" selection-start-line="478" selection-start-column="30" selection-end-line="478" selection-end-column="30" />
         </state>
       </provider>
     </entry>

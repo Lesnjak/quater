@@ -1,4 +1,4 @@
-// 'use strict';
+'use strict';
 // $(".change-language li").click(function () {
 //     var val=$(this).html();
 //     $(".select-button ").html(val);
@@ -140,9 +140,12 @@
 //         $('.cdp').attr('actpage', paginationPage);
 //     });
 // };
-$("html").niceScroll({
-    cursorcolor:'#6bad02'
-});
+$(document).ready(function () {
+
+
+// $("html").niceScroll({
+//     cursorcolor:'#6bad02'
+// });
 $(".list, .sc").on("click","a", function (event) {
     event.preventDefault();
     $('.list a').removeClass('activ-green');
@@ -153,9 +156,11 @@ $(".list, .sc").on("click","a", function (event) {
 
     var id  = $(this).attr('href'),
         top = $(id).offset().top;
+    console.log(top);
     $('a[href= "'+id+'"]').addClass('activ-green');
     $('html').animate({scrollTop: top-40}, 500);
 });
+
 $(".video-box").click(function () {
     $('.main-block').css('display','block');
     $('.form-section').css('display','none');
@@ -328,3 +333,75 @@ $('.form-group ').submit(function (event) {
     event.preventDefault();
 });
 
+// Global Variables
+    var currentDelta = 0; // The global value for the previous delta
+    var deltaLimit = 150; // Set the limit of the skew here
+    var returnSpeed = 1.14; // Sets the speed of return
+
+// Displays Global Variables
+// document.getElementById('returnDisplay').innerHTML=returnSpeed; // Displays the rate of change
+// document.getElementById('deltaDisplay').innerHTML=deltaLimit; // Displays the rate limit
+
+// Calculates scroll speed
+    var checkScrollSpeed = (function(settings){
+        settings = settings || {};
+        var lastPos, newPos, timer, delta,
+            delay = settings.delay || 200;
+        function clear() {
+            lastPos = null;
+            delta = 0;
+        }
+        clear();
+        return function(){
+            newPos = window.scrollY;
+            if ( lastPos != null ){ // && newPos < maxScroll
+                delta = newPos -  lastPos;
+            }
+            lastPos = newPos;
+            clearTimeout(timer);
+            timer = setTimeout(clear, delay);
+            updateRate(delta);
+            return delta;
+        };
+        // This function updates the rate with the highest absolute rate
+        // with respect to negative and positive values.
+        // The final result is modded by the limit to cap the max value.
+        function updateRate(deltaValue){
+            if (Math.abs(deltaValue) > Math.abs(currentDelta)){
+                // document.getElementById('rateOfChange').innerHTML=deltaValue;
+                currentDelta = (delta) % deltaLimit;
+            }
+        }
+    })();
+
+// This is the decay rate of the skew
+    window.setInterval(function(){
+        currentDelta = (currentDelta/returnSpeed).toFixed(3); // "toFixed" rounds to 5 significant digits
+        // updateSkew();
+        var $changeSkew = 'skewY('+(currentDelta/20).toFixed(3)+'deg)';
+        var $changeTransform = 'translateY('+ (currentDelta/2) +'px)';
+        var $change = $changeSkew + ' ' + $changeTransform;
+        $("#yoloScroll").css('-webkit-transform', $change);
+        // document.getElementById('rateOfChange').innerHTML=currentDelta; // Displays the decay rate
+    }, 16); // roughly 60 frames per second
+
+// listen to "scroll" event to trigger effect
+    if($(window).width() > 1200){
+        var scr = 100;
+        $('html').on('mousewheel',function (e) {
+            var scroll = e.originalEvent.deltaY;
+            if(scroll > 0){
+                scr+=130;
+            }
+            else if(scroll < 0 && scr > 0) {
+                scr-=130;
+            }
+            $('html').animate({scrollTop:scr}, 50);
+            return false;
+        })
+    }
+
+
+
+
+})
